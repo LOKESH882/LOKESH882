@@ -1,4 +1,4 @@
-# Hey 👋, I'm Shivam!!
+# Hey 👋, I'm Lokesh!!
 
 💫 **About Me**  
 Glad you're here! I'm a passionate **Software Engineer** 👨🏻‍💻 specializing in **Full‑Stack Java**.  
