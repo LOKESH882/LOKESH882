@@ -10,7 +10,7 @@ I love exploring cutting-edge technologies, tackling complex problems, and sharp
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shivam-patil1404/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/shivam-patil1404/](https://www.linkedin.com/in/lokesh-jagtap-34a529228/))  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:patilspshivam@gmail.com)
 
 ---
